@@ -45,6 +45,7 @@
     <workbench>
       <icon>freecad/stemfie/resources/icons/STEMFIE.svg</icon>
       <classname>StemfieWorkbench</classname>
+      <subdirectory>freecad/stemfie</subdirectory>
     </workbench>
   </content>
 
